@@ -1,0 +1,10 @@
+- dialog "Cookie choices" [ref=e6]:
+  - generic [ref=e9]:
+    - generic [ref=e13]:
+      - paragraph [ref=e14]: We use cookies to keep Ohmlet working
+      - paragraph [ref=e15]:
+        - text: Essential cookies keep you signed in and secure. With your permission, we also use analytics to understand how the app is used so we can improve it. No ads, and we never sell your data.
+        - button "Read our Cookie Policy" [ref=e16]
+    - generic [ref=e17]:
+      - button "Reject non-essential" [ref=e18]
+      - button "Accept all" [ref=e19]

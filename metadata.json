@@ -1,0 +1,6 @@
+{
+  "name": "Ohmlet",
+  "description": "Learn electronics by building with a live AI tutor that watches your bench using Gemini Live.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
